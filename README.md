@@ -1,3 +1,4 @@
 # int2020cpsc298Assignment3
-<h4> hello </h4>
-<h5> hi </h5> 
+<p> Kaylee Chan </p>
+<p> 2348244 </p>
+<p> No online references, but I referenced the in class activity </p>
